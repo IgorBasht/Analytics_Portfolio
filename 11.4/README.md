@@ -1,1 +1,1 @@
-###  📊 Customer churn dashboard [CV](https://public.tableau.com/app/profile/ibasht/viz/_16798291316330/Dashboard1?publish=yes)https://public.tableau.com/app/profile/ibasht/viz/_16798291316330/Dashboard1?publish=yes)
+###  📊 Customer churn dashboard [CV](https://public.tableau.com/app/profile/ibasht/viz/_16798291316330/Dashboard1?publish=yes)
