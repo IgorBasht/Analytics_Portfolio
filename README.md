@@ -52,11 +52,6 @@
 
 **Направление деятельности:** Data Analyst, Fraud-аналитик, маркетинг-аналитик.
 
-
----
-
--
-
 ---
 
 #### [Исследование популярности компьютерных игр для планирования рекламных компаний](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/04%20-%20Research%20on%20computer%20games%20for%20advertising) 
