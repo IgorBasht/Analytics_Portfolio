@@ -140,8 +140,8 @@
 
 
 #### Аналитический буткемп
-#####[Анализ оттока клиентов банка](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/11%20-%20Analysis%20of%20bank%20customer%20churn(Bootcamp)) 
-#####[Анализ результатов A/B-теста](https://github.com/IgorBasht/Analytics_Portfolio/blob/main/12%20-%20Analysis%20of%20AB%20test%20results(Bootcamp)/Analysis%20of%20AB%20test%20results.ipynb) 
+##### [Анализ оттока клиентов банка](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/11%20-%20Analysis%20of%20bank%20customer%20churn(Bootcamp)) 
+##### [Анализ результатов A/B-теста](https://github.com/IgorBasht/Analytics_Portfolio/blob/main/12%20-%20Analysis%20of%20AB%20test%20results(Bootcamp)/Analysis%20of%20AB%20test%20results.ipynb) 
 #####[Аналитический буткемп](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/13%20-%20Analytical%20bootcamp) 
 #####[Аналитический буткемп](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/13%20-%20Analytical%20bootcamp) 
 
