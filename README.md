@@ -11,10 +11,12 @@
 *Общее количество проектов в репозитории:* **15**
 
 ## Структура репозитория
-
 ---
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4626dac0d8ede1b7dbcffdb5012e9f6028635030
 ### Проекты Data Analysis
 ---
 
@@ -140,9 +142,9 @@
 
 **Направление деятельности:** BI-аналитик, Data Analyst, аналитик-универсал, маркетинг-аналитик.
 
-
 ---
 
+<<<<<<< HEAD
 Аналитический буткемп
 ##### Анализ оттока клиентов банка 
 ##### Анализ результатов A/B-теста 
@@ -182,6 +184,44 @@
 
 
 ---
+=======
+### Аналитический буткемп
+##### [Анализ оттока клиентов банка](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/11%20-%20Analysis%20of%20bank%20customer%20churn(Bootcamp)) 
+##### [Анализ результатов A/B-теста](https://github.com/IgorBasht/Analytics_Portfolio/blob/main/12%20-%20Analysis%20of%20AB%20test%20results(Bootcamp)/Analysis%20of%20AB%20test%20results.ipynb) 
+#####[Аналитический буткемп](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/13%20-%20Analytical%20bootcamp) 
+#####[Аналитический буткемп](https://github.com/deemchick/Data_Analytics-Portfolio/tree/main/13%20-%20Analytical%20bootcamp) 
+
+Комплексный проект, демонстрирующий широкий спектр навыков - EDA, визуализации, когортного анализа, событийного анализа, владения пользовательскими метриками, анализа результатов А/В-теста, кластеризации, проверки статистических гипотез, подготовки презентаций и дашбордов (Tableau), ETL-навыки на основе запросов SQL (диалект PostgreSQL).
+
+**Стэк:** Python, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, SciPy, Tableau, SQL, PostgreSQL
+
+**Сфера деятельности:** интернет-сервисы, стартапы. 
+
+**Направление деятельности:** аналитик-универсал, продуктовый аналитик, маркетинг-аналитик, BI-аналитик, Data Analyst.
+>>>>>>> 4626dac0d8ede1b7dbcffdb5012e9f6028635030
+
+
+
+-
+
+---
+
+-
+
+---
+
+-
+
+---
+
+
+---
+
+
+
+---
+
+-
 
 
 ---
