@@ -40,6 +40,7 @@
 
 - PostgreSQL
 - SQL
+- sqlalchemy
 
 
 ### Навыки, использованные в проекте
