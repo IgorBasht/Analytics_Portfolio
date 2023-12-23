@@ -38,6 +38,10 @@
 В ходе исследования также потребовалось построить гистограммы, диаграммы.
 
 
+Ссылка на данные: [kaggle](https://www.kaggle.com/datasets/rakeshrau/social-network-ads).
+
+
+
 ## Инструменты проекта
 
 - Python
