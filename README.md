@@ -14,7 +14,7 @@
 ---
 
 
-#### [Social media advertising data analysis](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/Social%20media%20advertising%20data%20analysis) 
+#### [Анализ данных рекламы в социальных сетях](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/Social%20media%20advertising%20data%20analysis) 
 
 Проект, демонстрирующий основные навыки исследовательского анализа данных (EDA) и их визуализации.
 
