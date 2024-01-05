@@ -156,7 +156,7 @@
 
 ### Аналитический буткемп
 ##### [Анализ оттока клиентов банка](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/11%20-%20Analysis%20of%20bank%20customer%20churn(Bootcamp)) 
-##### [Анализ результатов A/B-теста](https://github.com/IgorBasht/Analytics_Portfolio/blob/main/12%20-%20Analysis%20of%20AB%20test%20results(Bootcamp)/Analysis%20of%20AB%20test%20results.ipynb) 
+##### [Анализ результатов A/B-теста](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/12%20-%20Analysis%20of%20AB%20test%20results(Bootcamp)) 
 ##### [Иследование данных сервиса для чтения книг(SQL)](https://github.com/IgorBasht/Analytics_Portfolio/tree/main/13%20-%20Studying%20book%20reading%20service%20data%20(project%20SQL%20Bootcamp)) 
 ##### [BI-аналитика оттока клиентов банка](https://github.com/IgorBasht/Analytics_Portfolio/blob/main/14%20-%20Bank%20outflow%20project%20(Tableau%20Public%20Bootcamp)/Bank%20outflow%20project.md) 
 
